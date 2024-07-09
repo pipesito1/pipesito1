@@ -1,12 +1,12 @@
 <div align="center">
 <h1 align="center">Hi, I'm Felipe Sepulveda 👋</h1>
 </div>
-<img src="C:\Users\BORDADO Y ESTAMPADO\Desktop\streamlit\banner22.jpg">
+<img src="img\banner22.jpg">
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/pipesito1))
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/pipesito1)
 
 
-## Sobre mi
+## About me
 
 - ⭐ Github Star ⭐ 
 - 🤖 Data scientist
@@ -15,31 +15,31 @@
 - 📗 Mathematics and accounting
 <br>
 
-## Proyectos *bombitas*
+## Cool Projects 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">DataLogic NY taxis</h3>
 <div align="center">
-<a href="(https://github.com/pipesito1/DataLogic_NY_taxis)" target="_blank"><img src="images\datalogic banner.png" width="400" alt="Ny taxis"></a>
+<a href="(https://github.com/pipesito1/DataLogic_NY_taxis)" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Datalogic_NY_taxis"></a>
 <p>
-<a href="(https://github.com/pipesito1/video_games_recommend)" target="_blank">
-<img src=""C:\Users\BORDADO Y ESTAMPADO\Desktop\streamlit\recomendacion de video juegos.jpg"">
+<a href="(https://github.com/pipesito1/DataLogic_NY_taxis) target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Project that aims to analyse the databases of new york taxis, electric cars accepted as taxis, noise and air pollution in order to help future customers make effective decisions when changing their taxi fleet, through predictive, recommendation and chat bot models that facilitate their choice.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center"> Video Games Recommend</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="(https://github.com/pipesito1/video_games_recommend)" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>This project covers all phases of the lifecycle of a Machine Learning project. The final result is an API deployed in Render, which allows queries to be made to the records of a database of the Steam platform. In addition, a video game recommendation model was developed based on cosine similarity, also accessible through the API.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
