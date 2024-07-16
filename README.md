@@ -21,9 +21,9 @@
 <td width="50%">
 <h3 align="center">DataLogic NY taxis</h3>
 <div align="center">
-<a href="(https://github.com/pipesito1/DataLogic_NY_taxis)" target="_blank"><img src="./img/datalogic banner taxis.jpg" width="400" alt="Datalogic_NY_taxis"></a>
+<a href="https://github.com/pipesito1/DataLogic_NY_taxis" target="_blank"><img src="./img/datalogic banner taxis.jpg" width="400" alt="Datalogic_NY_taxis"></a>
 <p>
-<a href="(https://github.com/pipesito1/DataLogic_NY_taxis)" target="_blank">
+<a href="https://github.com/pipesito1/DataLogic_NY_taxis" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
@@ -39,7 +39,7 @@
 <br>
 <h3 align="center"> Road Accidents</h3>
 <div align="center">                                       
-<a href="(https://github.com/pipesito1/Proyecto_siniestros_viales)" target="_blank"><img src="./img/siniestros viales banner.jpg" width="400" alt="siniestros viales"></a>
+<a href="https://github.com/pipesito1/Proyecto_siniestros_viales" target="_blank"><img src="./img/siniestros viales banner.jpg" width="400" alt="siniestros viales"></a>
 <br>
 <p>
 <a href="https://github.com/pipesito1/Proyecto_siniestros_viales" target="_blank">
