@@ -36,7 +36,7 @@
 </td>
 
 <td width="50%">
-               <br>
+<br>
 <h3 align="center"> Road Accidents</h3>
 <div align="center">                                       
 <a href="(https://github.com/pipesito1/Proyecto_siniestros_viales)" target="_blank"><img src="./img/siniestros viales banner.jpg" width="400" alt="siniestros viales"></a>
