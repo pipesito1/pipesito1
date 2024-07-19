@@ -13,6 +13,7 @@
 - 💻 Data analysis
 - 🕹️ Machine learning
 - 📗 Mathematics and accounting
+- 🎨 Graphic design
 <br>
 
 ## Cool Projects 
