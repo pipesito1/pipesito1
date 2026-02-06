@@ -73,6 +73,28 @@
 <p>This project covers all phases of the lifecycle of a Machine Learning project. The final result is an API deployed in Render, which allows queries to be made to the records of a database of the Steam platform. In addition, a video game recommendation model was developed based on cosine similarity, also accessible through the API.</p>
 </div> 
 
+<td width="50%">
+<h3 align="center">Football Over 2.5 Prediction</h3>
+<div align="center">
+
+<a href="https://github.com/pipesito1/football-over25-prediction" target="_blank">
+<img src="./img/football_over25.png" width="400" alt="football over 2.5 prediction">
+</a>
+
+<p>
+<a href="https://github.com/pipesito1/football-over25-prediction" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p>
+Machine Learning system that analyzes live football matches using API data and predicts the probability of over 2.5 goals using Random Forest and historical match data.
+</p>
+
+</div>
+</td>
+</table>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/pipesito1">
