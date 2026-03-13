@@ -1,150 +1,212 @@
+```markdown
 <div align="center">
-<h1 align="center">Hi, I'm Felipe Sepulveda 👋</h1>
-</div>
+
+# Hi, I'm Felipe Sepulveda 👋
+
 <img src="./img/banner22.jpg">
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/pipesito1)
+[![GitHub followers](https://img.shields.io/github/followers/pipesito1?style=social)](https://github.com/pipesito1)
 
+Data Scientist | Data Analyst | Machine Learning | Data Engineering
 
-## About me
+</div>
 
-- ⭐ Github Star ⭐ 
-- 🤖 Data scientist
-- 💻 Data analysis
-- 🕹️ Machine learning
-- 📗 Mathematics and accounting
-- 🎨 Graphic design
-<br>
+---
 
-## Cool Projects 
+# 👨‍💻 About Me
+
+- 🤖 Data Scientist & Data Analyst  
+- 📊 Passionate about **Machine Learning and Data Engineering**
+- ☁️ Interested in **Cloud Data Pipelines (AWS, SQL, Python)**
+- 📗 Background in **Mathematics and Accounting**
+- 🎨 Graphic Design & Web Design knowledge
+- 🌎 Based in **Colombia**
+
+---
+
+# 🧠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+### Data Engineering
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2)
+![Athena](https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge)
+
+### Visualization
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge)
+
+---
+
+# 🚀 Featured Projects
+
 <table>
 <tr>
+
 <td width="50%">
-<h3 align="center">DataLogic NY taxis</h3>
+<h3 align="center">DataLogic NY Taxis</h3>
+
 <div align="center">
-<a href="https://github.com/pipesito1/DataLogic_NY_taxis" target="_blank"><img src="./img/datalogic banner taxis.jpg" width="400" alt="Datalogic_NY_taxis"></a>
-<p>
-<a href="https://github.com/pipesito1/DataLogic_NY_taxis" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+
+<a href="https://github.com/pipesito1/DataLogic_NY_taxis">
+<img src="./img/datalogic banner taxis.jpg" width="400">
 </a>
 
-<!--img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40"-->
+<br>
+
+<a href="https://github.com/pipesito1/DataLogic_NY_taxis">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-</p>
-<p>Project that aims to analyse the databases of new york taxis, electric cars accepted as taxis, noise and air pollution in order to help future customers make effective decisions when changing their taxi fleet, through predictive, recommendation and chat bot models that facilitate their choice.</p>
+
 </div>
-                                                                                      
+
+Project that analyzes **New York taxi data, electric vehicles, noise levels and air pollution** to support fleet decision-making using **predictive models, recommendation systems and chatbots**.
+
 </td>
 
 <td width="50%">
-<br>
-<h3 align="center"> Road Accidents</h3>
-<div align="center">                                       
-<a href="https://github.com/pipesito1/Proyecto_siniestros_viales" target="_blank"><img src="./img/siniestros viales banner.jpg" width="400" alt="siniestros viales"></a>
-<br>
-<p>
-<a href="https://github.com/pipesito1/Proyecto_siniestros_viales" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<!--a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f"-->
-</!--a>
-</p>
-</p>In this project, we are assigned the role of data analysts to generate valuable information on the evolution of road crashes in the City of Buenos Aires between 2016 and 2021. To do so, we will use a dataset in xlsx format containing two sheets: events and victims.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Video Game Recommendations</h3>
-<div align="center">
-<a href="https://github.com/pipesito1/video_games_recommend" target="_blank"><img src="./img/video_game.png" width="400" alt="video game recommendations"></a>
-<p>
-<a href="https://github.com/pipesito1/video_games_recommend" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<!--a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40"-->
-</!--a>
-</p>
-<p>This project covers all phases of the lifecycle of a Machine Learning project. The final result is an API deployed in Render, which allows queries to be made to the records of a database of the Steam platform. In addition, a video game recommendation model was developed based on cosine similarity, also accessible through the API.</p>
-</div> 
+<h3 align="center">Road Accidents Analysis</h3>
 
-<td width="50%">
-<h3 align="center">Football Over 2.5 Prediction</h3>
 <div align="center">
 
-<a href="https://github.com/pipesito1/football-over25-prediction" target="_blank">
-<img src="./img/football_over25.png" width="400" alt="football over 2.5 prediction">
+<a href="https://github.com/pipesito1/Proyecto_siniestros_viales">
+<img src="./img/siniestros viales banner.jpg" width="400">
 </a>
 
-<p>
-<a href="https://github.com/pipesito1/football-over25-prediction" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-
-<p>
-Machine Learning system that analyzes live football matches using API data and predicts the probability of over 2.5 goals using Random Forest and historical match data.
-</p>
-
-</div>
-</td>
-</table>
 <br>
 
-<table>
-<tr>
-
-<td width="50%">
-<h3 align="center">AWS Data Engineering Pipeline</h3>
-<div align="center">
-
-<a href="https://github.com/pipesito1/IBM_Transactions" target="_blank">
-<img src="./img/portada_IBM_project.png" width="400" alt="AWS Data Engineering Pipeline">
+<a href="https://github.com/pipesito1/Proyecto_siniestros_viales">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-
-<p>
-<a href="https://github.com/pipesito1/IBM_Transactions" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-
-<p>
-Cloud Data Engineering pipeline that processes banking transaction datasets using AWS services.  
-The system loads raw compressed files into Amazon S3, processes them in EC2 using Python, converts them into optimized Parquet format, and enables fast SQL queries using Athena.  
-Results are visualized in Looker Studio dashboards for financial analysis.
-</p>
 
 </div>
+
+Data analytics project analyzing **road accidents in Buenos Aires (2016-2021)** to identify patterns, trends and insights that can support public safety decisions.
+
 </td>
 
 </tr>
 </table>
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">Video Game Recommendation System</h3>
+
+<div align="center">
+
+<a href="https://github.com/pipesito1/video_games_recommend">
+<img src="./img/video_game.png" width="400">
+</a>
+
+<br>
+
+<a href="https://github.com/pipesito1/video_games_recommend">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</div>
+
+Machine Learning system that builds a **video game recommendation engine** using **cosine similarity** and exposes results through a **deployed API in Render**.
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Football Over 2.5 Prediction</h3>
+
+<div align="center">
+
+<a href="https://github.com/pipesito1/football-over25-prediction">
+<img src="./img/football_over25.png" width="400">
+</a>
+
+<br>
+
+<a href="https://github.com/pipesito1/football-over25-prediction">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</div>
+
+Machine Learning model that predicts **probability of Over 2.5 goals in live football matches** using **Random Forest and API match data**.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">AWS Data Engineering Pipeline</h3>
+
+<div align="center">
+
+<a href="https://github.com/pipesito1/aws-data-engineering-bank-pipeline">
+<img src="./img/portada_IBM_project.png" width="400">
+</a>
+
+<br>
+
+<a href="https://github.com/pipesito1/aws-data-engineering-bank-pipeline">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</div>
+
+Cloud **Data Engineering pipeline** that processes banking transaction datasets using **AWS services**:
+
+• Raw data ingestion into **Amazon S3**  
+• Data processing in **EC2 using Python**  
+• Conversion to optimized **Parquet format**  
+• Querying with **Amazon Athena**  
+• Visualization using **Looker Studio**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/pipesito1">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pipesito1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pipesito1&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pipesito1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pipesito1&layout=compact&langs_count=8&theme=algolia"/>
+
 </p>
 
+---
 
-<!--
-**pipesito1/pipesito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📬 Contact
 
-Here are some ideas to get you started:
+- 💼 LinkedIn: *(add your LinkedIn here)*  
+- 📧 Email: *(add your email)*  
+- 🌎 Portfolio: *(optional)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ From [pipesito1](https://github.com/pipesito1)
+```
