@@ -94,6 +94,36 @@ Machine Learning system that analyzes live football matches using API data and p
 </div>
 </td>
 </table>
+<br>
+
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">AWS Data Engineering Pipeline</h3>
+<div align="center">
+
+<a href="https://github.com/pipesito1/IBM_Transactions" target="_blank">
+<img src="./img/portada_IBM_project.png" width="400" alt="AWS Data Engineering Pipeline">
+</a>
+
+<p>
+<a href="https://github.com/pipesito1/IBM_Transactions" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p>
+Cloud Data Engineering pipeline that processes banking transaction datasets using AWS services.  
+The system loads raw compressed files into Amazon S3, processes them in EC2 using Python, converts them into optimized Parquet format, and enables fast SQL queries using Athena.  
+Results are visualized in Looker Studio dashboards for financial analysis.
+</p>
+
+</div>
+</td>
+
+</tr>
+</table>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
