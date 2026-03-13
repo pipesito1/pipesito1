@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
 <h1 align="center">Hi, I'm Felipe Sepulveda 👋</h1>
 </div>
@@ -133,4 +133,3 @@ Results are visualized in Looker Studio dashboards for financial analysis.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pipesito1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-```
