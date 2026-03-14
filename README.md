@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Felipe Sepulveda 👋
@@ -121,7 +120,7 @@ Data analytics project analyzing **road accidents in Buenos Aires (2016-2021)** 
 
 </div>
 
-Machine Learning system that builds a **video game recommendation engine** using **cosine similarity** and exposes results through a **deployed API in Render**.
+Machine Learning system that builds a **video game recommendation engine** using **cosine similarity** and exposes results through a **deployed API**.
 
 </td>
 
@@ -175,11 +174,35 @@ Machine Learning model that predicts **probability of Over 2.5 goals in live foo
 
 Cloud **Data Engineering pipeline** that processes banking transaction datasets using **AWS services**:
 
-• Raw data ingestion into **Amazon S3**  
-• Data processing in **EC2 using Python**  
-• Conversion to optimized **Parquet format**  
-• Querying with **Amazon Athena**  
-• Visualization using **Looker Studio**
+• Raw data ingestion into Amazon S3  
+• Data processing in EC2 using Python  
+• Conversion to optimized Parquet format  
+• Querying with Amazon Athena  
+• Visualization using Looker Studio
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Bank Fraud Detection System</h3>
+
+<div align="center">
+
+<a href="https://github.com/pipesito1/bank-fraud-detection-ml">
+<img src="./img/headline_bank.png" width="400">
+</a>
+
+<br>
+
+<a href="https://github.com/pipesito1/bank-fraud-detection-ml">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</div>
+
+End-to-end **Machine Learning project focused on detecting fraudulent banking transactions**.
+
+The system analyzes transaction patterns and predicts whether a transaction is **legitimate or potentially fraudulent**, simulating how financial institutions use machine learning to strengthen fraud prevention systems.
 
 </td>
 
@@ -202,7 +225,7 @@ Cloud **Data Engineering pipeline** that processes banking transaction datasets 
 
 # 📬 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/felipe-sepulveda-21684a115/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/felipe-sepulveda-21684a115/  
 - 📧 Email: jhesuafelipe24@gmail.com  
 - 🌎 Portfolio: 
 
