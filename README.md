@@ -227,7 +227,7 @@ The system analyzes transaction patterns and predicts whether a transaction is *
 
 - 💼 LinkedIn: https://www.linkedin.com/in/felipe-sepulveda-21684a115/  
 - 📧 Email: jhesuafelipe24@gmail.com  
-- 🌎 Portfolio: 
+- 🌎 Portfolio: https://portfolio-ogan.onrender.com/
 
 ---
 
