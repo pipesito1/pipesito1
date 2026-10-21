@@ -50,6 +50,58 @@ Data Scientist | Data Analyst | Machine Learning | Data Engineering
 
 <table>
 <tr>
+<td width="50%">
+
+<h3 align="center">E-Commerce Data Engineering Pipeline</h3>
+
+<div align="center">
+
+<a href="https://github.com/pipesito1/ecommerce-data-engineering-pipeline">
+<img src="./img/ecommerce-data-engineering-pipeline.jfif" width="400" alt="E-Commerce Data Engineering Pipeline">
+</a>
+
+<br>
+
+<a href="https://github.com/pipesito1/ecommerce-data-engineering-pipeline">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="View source code">
+</a>
+
+</div>
+
+End-to-end **Data Engineering pipeline** for e-commerce analytics, integrating **PostgreSQL, MinIO, PySpark, Apache Airflow, dbt, Docker, and Power BI**.
+
+The platform implements a Bronze/Silver data architecture, analytical transformations, automated data quality checks, and pipeline monitoring.
+
+</td>
+<td width="50%">
+
+<h3 align="center">DataLogic NY Taxis</h3>
+
+<div align="center">
+
+<a href="https://github.com/pipesito1/DataLogic_NY_taxis">
+<img src="./img/datalogic banner taxis.jpg" width="400" alt="DataLogic NY Taxis">
+</a>
+
+<br>
+
+<a href="https://github.com/pipesito1/DataLogic_NY_taxis">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="View source code">
+</a>
+
+</div>
+
+Project analyzing New York taxi data, electric vehicles, noise levels, and air pollution to support fleet decision-making through predictive models and analytical solutions.
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
 
 <td width="50%">
 <h3 align="center">DataLogic NY Taxis</h3>
