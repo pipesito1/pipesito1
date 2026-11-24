@@ -2,7 +2,7 @@
 
 # Hi, I'm Felipe Sepulveda 👋
 
-<img src="./img/banner22.jpg">
+<img src="./img/Data Science and Engineering Banner.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/pipesito1?style=social)](https://github.com/pipesito1)
 
