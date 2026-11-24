@@ -14,7 +14,7 @@ Data Scientist | Data Analyst | Machine Learning | Data Engineering
 
 # 👨‍💻 About Me
 
-- 🤖 Data Scientist & Data Analyst  
+- 🤖 Data Scientist & Data Engineer  
 - 📊 Passionate about **Machine Learning and Data Engineering**
 - ☁️ Interested in **Cloud Data Pipelines (AWS, GCP, SQL, Python)**
 - 📗 Background in **Mathematics and Accounting**
